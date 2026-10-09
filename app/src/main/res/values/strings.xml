@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">李逸凡2024110518</string>
+    <string name="result_prefix">返回结果：%1$s</string>
+</resources>
